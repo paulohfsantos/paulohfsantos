@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **paulohfsantos1@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/paulohfsantos](linkedin.com/in/paulohfsantos)
+- 📄 Know about my experiences [https://linkedin.com/in/paulohfsantos](linkedin.com/in/paulohfsantos)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
