@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **paulohfsantos1@gmail.com**
 
-<p align="left"> - Know about my experiences: <a href="https://linkedin.com/in/paulohfsantos">Linkedin.com/in/paulohfsantos</a> </p>
+- <p align="left">Know about my experiences: <a href="https://linkedin.com/in/paulohfsantos">Linkedin.com/in/paulohfsantos</a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
