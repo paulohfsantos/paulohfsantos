@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulohfsantos&label=Profile%20views&color=0e75b6&style=flat" alt="paulohfsantos" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular**, **Kotlin** and **.NET 6**
 
 - 📫 How to reach me **paulohfsantos1@gmail.com**
 
