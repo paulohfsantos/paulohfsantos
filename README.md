@@ -2,7 +2,7 @@
 <h3 align="center">Front-end & Back-end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulohfsantos&label=Profile%20views&color=0e75b6&style=flat" alt="paulohfsantos" /> </p>
-- <p align="left">Know about my experiences: <a href="https://linkedin.com/in/paulohfsantos">Linkedin.com/in/paulohfsantos</a> </p>
+<p align="left">Know about my experiences: <a href="https://linkedin.com/in/paulohfsantos">Linkedin.com/in/paulohfsantos</a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
