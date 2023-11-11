@@ -5,10 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=paulohfsantos&label=Profile%20views&color=0e75b6&style=flat" alt="paulohfsantos" />
 </p>
 
-<a href="https://linkedin.com/in/paulohfsantos" target="blank"></a>
-<a href="https://codesandbox.com/paulohfsantos" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="paulohfsantos" height="30" width="40" />
-</a>
+<!-- <a href="https://linkedin.com/in/paulohfsantos" target="blank"></a> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
